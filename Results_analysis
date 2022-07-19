@@ -1,0 +1,3 @@
+Performed the NOT and OR operations using mcculloh pitts model
+For Not Operations modified the inputs as x0(0,1) and x1(1,1) with weights(-2,1).
+For OR operation modified the weights as (2,2,-1).
